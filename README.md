@@ -1,7 +1,8 @@
 # 玄英明朝 A1
 本字體根據[源雲明朝](https://github.com/ButTaiwan/genwan-font)修改.
 # 特徵
-細化橫筆詳細可以參閱:[這裡](https://github.com/ButTaiwan/genwan-font/blob/master/README.md)
+細化橫筆,過爆
+<br>·可以參閱:[這裡](https://github.com/ButTaiwan/genwan-font/blob/master/README.md)
 # 修改可能
 本字體還處於測試階段,不排除有大幅修改之可能.字體由程式腳本生成難免存在瑕疵,後續可能完善.
 # 著作權與授權
