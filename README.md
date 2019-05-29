@@ -2,7 +2,7 @@
 # 玄英明朝 A1
 本字體根據[源雲明朝](https://github.com/ButTaiwan/genwan-font)修改.
 # 比對
-
+![image](https://github.com/KunYuBoGU/XuanYing-mincho-A1/blob/master/image/%E6%AF%94%E5%B0%8D.png)
 # 特徵
 直接將源雲明朝細化處理
 <br>·源雲明朝特徵可以參閱:[這裡](https://github.com/ButTaiwan/genwan-font/blob/master/README.md)
