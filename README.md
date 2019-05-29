@@ -1,6 +1,6 @@
 ![image](https://github.com/KunYuBoGU/XuanYing-mincho-A1/blob/master/font/2019-05-29_15.57.19.png)
 # 玄英明朝 A1
-本字體根據[源雲明朝](https://github.com/ButTaiwan/genwan-font)修改.
+本字體根據[源雲明朝](https://github.com/ButTaiwan/genwan-font)修改的開放源代碼字體.
 # 比對
 ![image](https://github.com/KunYuBoGU/XuanYing-mincho-A1/blob/master/image/%E6%AF%94%E5%B0%8D.png)
 # 特徵
@@ -13,4 +13,3 @@
 <br>·本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
 <br>·本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
 <br>·您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
-
