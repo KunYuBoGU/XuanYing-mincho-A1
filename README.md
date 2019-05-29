@@ -18,7 +18,7 @@
 <br>根據[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)修改以下漢字
 <br>音 商 妾 最 亲 示 祭 票等
 <br>壓縮字體大小
-<br>對「气」部仿照A!明朝加工
+<br>對「气」部風格化修改
 ## 吿
 字體V.1.23之後將放緩更新,且更新重點會基於[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)進行創作
 ## 警告
