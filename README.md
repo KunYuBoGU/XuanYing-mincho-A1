@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/KunYuBoGU/XuanYing-mincho-A1/master/font/2019-05-01_21.02.40.00_00_16_00.%E9%9D%99%E6%AD%A2005.png)
+![image](https://github.com/KunYuBoGU/XuanYing-mincho-A1/blob/master/font/2019-05-29_15.57.19.png)
 # 玄英明朝 A1
 本字體根據[源雲明朝](https://github.com/ButTaiwan/genwan-font)修改.
 # 比對
