@@ -1,5 +1,5 @@
 # 更新日誌 
-<br>更新:𤞑禦禁龒六亥最既音書意香旁竟竞丹於即概區匾匿匽等<br>修復:概為狼勺巨等<br>添加:𤞑等<br>解決多處極點崩壞問題<br>[傳承字形修改](https://github.com/ichitenfont/inheritedglyphs)
+<br>更新:𤞑禦禁龒六亥最既音書意香旁竟竞丹於即概區匾匿匽等<br>修復:概為狼勺巨等<br>添加:𤞑等<br>解決多處極點崩壞問題<br>[傳承字形修改](https://github.com/ichitenfont/inheritedglyphs)![image](https://github.com/KunYuBoGU/XuanYing-mincho-A1/blob/master/image/32AE9930FFCBDE7C80B8B27010618633.jpg)
 # 玄英明朝 A1
 ![image](https://github.com/KunYuBoGU/XuanYing-mincho-A1/blob/master/font/2019-05-29_15.57.19.png)
 <br>本字體根據[源雲明朝](https://github.com/ButTaiwan/genwan-font)修改的開放原始碼字體.
