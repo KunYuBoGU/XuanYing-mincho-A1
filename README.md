@@ -1,3 +1,5 @@
+# 問題與建議
+如果有什麼好的建議和出現任何問題,請務必告訴我.
 # 玄英明朝 A1
 ![image](https://github.com/KunYuBoGU/XuanYing-mincho-A1/blob/master/image/xuanyingm1.png)
 <br>本字體根據[源雲明朝](https://github.com/ButTaiwan/genwan-font)修改的開放原始碼字體.
